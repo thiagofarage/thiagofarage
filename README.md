@@ -1,2 +1,2 @@
 Olá! Eu sou Thiago Farage 👋
-Desenvolvedor Full-Stack, com foco em React, Next.js e aplicações web. Não vivo sem ir na academia e gosto muito de passar um tempo com meu cachorro, o Thor.
+Desenvolvedor Full-Stack, focado em construir soluções para o mercado financeiro. Atualmente, estou desenvolvendo a NexPay, um SaaS para MEIs, onde aplico os meus estudos em React, Next.js e PostgreSQL.
